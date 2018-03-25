@@ -17,21 +17,21 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Valdis Zobēla
 tagline: Software Architect & Full Stack Developer
 # pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: >
-  <p>I'm a software and web developer.</p>
+summary: #>
+  # <p>I'm a software and web developer.</p>
 
-  <p>My main expertise is in Python and JavaScript, but I'm open
-  for new languages and technologies and expanding my knowledge
-  stack. I'm using various frameworks, libraries and technologies
-  and trying to choose the best ones for a project (or new for
-  pet-projects). Programming is not only a job for me but also a
-  hobby.</p>
+  # <p>My main expertise is in Python and JavaScript, but I'm open
+  # for new languages and technologies and expanding my knowledge
+  # stack. I'm using various frameworks, libraries and technologies
+  # and trying to choose the best ones for a project (or new for
+  # pet-projects). Programming is not only a job for me but also a
+  # hobby.</p>
 
-  <p>I also have experience in Puzzle and Game design, especially
-  in coding puzzles and games. All my projects are located at
-  Github and I actively use it for my work and open source
-  contributions. My free time I spend at competition sites for
-  developers with interesting technical and algorithmic problems.</p>
+  # <p>I also have experience in Puzzle and Game design, especially
+  # in coding puzzles and games. All my projects are located at
+  # Github and I actively use it for my work and open source
+  # contributions. My free time I spend at competition sites for
+  # developers with interesting technical and algorithmic problems.</p>
 
 #sidebar links
 email: valdis@zobela.eu
