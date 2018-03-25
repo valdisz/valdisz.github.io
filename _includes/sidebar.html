@@ -22,10 +22,12 @@
 
            {% if site.email %}
            <li class="email"><i class="fa fa-envelope"></i>
-           <bdo dir="rtl">
            <script type="text/javascript">
-           document.write("<n uers=\"znvygb:{{site.email}}\" ery=\"absbyybj\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
-           </script>{{site.title}} email</a></bdo>
+           function decrypt(s) { return s.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}); };
+           function reverse(s) { return s.split('').reverse().join(''); }
+           var e = '{{site.email}}';
+           document.write(decrypt('<n uers="znvygb:') + reverse(e) + decrypt('" ery="absbyybj">'));
+           </script><bdo dir="rtl">{{site.email}}</bdo></a>
            </li>
            {% endif %}
 
