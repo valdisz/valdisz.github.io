@@ -21,7 +21,12 @@
        <ul class="list-unstyled contact-list">
 
            {% if site.email %}
-           <li class="email"><i class="fa fa-envelope"></i><bdo dir="rtl">{{site.email}}</bdo></li>
+           <li class="email"><i class="fa fa-envelope"></i>
+           <bdo dir="rtl">
+           <script type="text/javascript">
+           document.write("<n uers=\"znvygb:{{site.email}}\" ery=\"absbyybj\">".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+           </script>{{site.title}} email</a></bdo>
+           </li>
            {% endif %}
 
            {% if site.phone %}
