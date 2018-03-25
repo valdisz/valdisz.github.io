@@ -1,38 +1,49 @@
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+title: Valdis Zobēla
+url: 'http://zobela.eu'
+baseurl: '' #change it according to your repository name
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
-#style: styles-3
+# style: styles-2
+# style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: Valdis Zobēla
+tagline: Software Architect & Full Stack Developer
+# pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: >
+  <p>I'm a software and web developer.</p>
+
+  <p>My main expertise is in Python and JavaScript, but I'm open
+  for new languages and technologies and expanding my knowledge
+  stack. I'm using various frameworks, libraries and technologies
+  and trying to choose the best ones for a project (or new for
+  pet-projects). Programming is not only a job for me but also a
+  hobby.</p>
+
+  <p>I also have experience in Puzzle and Game design, especially
+  in coding puzzles and games. All my projects are located at
+  Github and I actively use it for my work and open source
+  contributions. My free time I spend at competition sites for
+  developers with interesting technical and algorithmic problems.</p>
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: valdis@zobela.eu
+phone: '+371 2836 3163'
+website: zobela.eu #do not add http://
+linkedin: valdiszobela
+github: valdisz
+twitter: '@valdis_zobela'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: False
 
 # Tracker
 analytics: UA-83979019-1

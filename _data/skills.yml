@@ -1,18 +1,39 @@
-- skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+- name: Languages
+  skills:
+    - { name: C#,                       level: 5 }
+    - { name: 'JavaScript, TypeScript', level: 5 }
+    - { name: F#,                       level: 4 }
+    - { name: Python,                   level: 3 }
+    - { name: PHP,                      level: 3 }
+    - { name: Java,                     level: 3 }
+    - { name: Bash,                     level: 3 }
+    - { name: Powershell,               level: 4 }
+    - { name: HTML5 & CSS,              level: 5 }
+    - { name: XML,                      level: 5 }
+
+- name: Frameworks
+  skills:
+    - { name: .Net Core,       level: 5 }
+    - { name: ASP.NET,         level: 5 }
+    - { name: Angular,         level: 5 }
+    - { name: Ionic Framework, level: 4 }
+    - { name: Flask,           level: 3 }
+
+- name: Databases
+  skills:
+    - { name: SQL Server,    level: 4 }
+    - { name: PostgreSQL,    level: 3 }
+    - { name: MySQL,         level: 3 }
+    - { name: Oracle,        level: 2 }
+    - { name: MongoDB,       level: 3 }
+    - { name: Elasticsearch, level: 4 }
+    - { name: RavenDB,       level: 4 }
+    - { name: RabbitMQ,      level: 4 }
+    - { name: Azure,         level: 5 }
+    - { name: Docker,        level: 3 }
+
+- name: Other
+  skills:
+    - { name: UML,   level: 3 }
+    - { name: BPMN,  level: 3 }
+    - { name: Scrum, level: 4 }

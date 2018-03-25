@@ -3,22 +3,30 @@
 
   <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
 
+  {% for group in site.data.skills %}
+  <h3 class="level-title">{{ group.name }}</h3>
   <div class="skillset">
-
-    {% for skill in site.data.skills %}
+    {% assign levels = group.skills | group_by: 'level' | sort: 'name' | reverse %}
+    {% for level in levels %}
+    
+    {% assign skills = level.items | sort: 'name' %}
+    
+    {% for skill in skills %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <h4 class="level-title">{{ skill.name }}</h4>
 
       <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        <div class="level-bar-inner" data-level="{{ skill.level | times: 20 }}%">
         </div>
       </div><!--//level-bar-->
 
     </div><!--//item-->
     {% endfor %}
+    {% endfor %}
 
   </div>
+  {% endfor %}
 
 </section><!--//skills-section-->
 {% endif %}
