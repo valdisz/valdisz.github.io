@@ -23,11 +23,11 @@
            {% if site.email %}
            <li class="email"><i class="fa fa-envelope"></i>
            <script type="text/javascript">
-           function decrypt(s) { return s.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}); };
-           function reverse(s) { return s.split('').reverse().join(''); }
-           var e = '{{site.email}}';
-           document.write(decrypt('<n uers="znvygb:') + reverse(e) + decrypt('" ery="absbyybj">'));
-           </script><bdo dir="rtl">{{site.email}}</bdo></a>
+           function d(s) { return s.replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}); };
+           function r(s) { return s.split('').reverse().join(''); }
+           var e = d(['{{ site.email[0] }}', '$', '{{ site.email[1] }}'].join('')).replace('$', '@');
+           document.write(d('<n uers="znvygb:') + r(e) + d('" ery="absbyybj">'));
+           </script><bdo dir="rtl"><script type="text/javascript">document.write(e);</script></bdo></a>
            </li>
            {% endif %}
 
