@@ -20,7 +20,8 @@
   role: Lead Developer
   time: 07.2009 - 09.2011
   company: Nexum Insurance Technologies, Riga, Latvia
-  details:
+  details: |
+    Developing complex dynamic form solution on ASP.NET where every form aspect and flow can be controlled from configuration. Solution is uses advanced, strongly typed against data in system DB expression system, which can control 90% of system behavior.
 
 - experience:
   role: Developer
