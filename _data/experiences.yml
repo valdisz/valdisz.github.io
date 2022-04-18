@@ -2,19 +2,26 @@
   role: Head of IT Baltic Software Architecture
   time: 12.2020 - Present
   company: If P&C Insurance, Riga, Latvia
-  details:
+  details: |
+    As a subunit leader, I'm responsible for the relations between my subordinates, their personal development, and mental health. Also, any other team-related issues and challenges are on me.
+
+    I'm directly managing a team of 5 skilled persons. Our team's primary goals are a technical roadmap, DevOps tasks, and cross-cutting features like authentication.
+
+    Besides direct team management, I work closely with other development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
 
 - experience:
   role: Lead Software Architect
   time: 04.2012 - 11.2020
   company: If P&C Insurance, Riga, Latvia
-  details:
+  details: |
+    I work closely with development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
 
 - experience:
   role: Software Architect
   time: 10.2011 - 03.2012
   company: Nexum Insurance Technologies, Riga, Latvia
-  details:
+  details: |
+    
 
 - experience:
   role: Lead Developer

@@ -1,4 +1,4 @@
-- name: Languages
+- name: Programming languages
   skills:
     - { name: 'JavaScript, TypeScript', level: 5 }
     - { name: C#,                       level: 5 }
