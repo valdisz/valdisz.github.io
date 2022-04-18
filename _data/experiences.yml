@@ -26,10 +26,22 @@
   role: Developer
   time: 04.2008 - 06.2009
   company: ALSO Latvia, Marupe, Latvia
-  details:
+  details: |
+    I developed a fully-featured, full-text search engine for a corporate, custom-built CMDB/issue tracking system. The search engine allowed the 90 staff members to find the required information instantly.
+
+    Worked in entirely three projects: search engine, issue tracking enhancements, and adopted internal issue tracking system for international GNT group needs.
+
+    Enhanced issue tracking modules for external users for easier claim registration through WEB and updated new issue creating process making it more robust and powerful.
+
+    I adopted an internal issue tracker for other GNT Group members. I updated the search engine to be able to search in different countries from a single issue tracker installation.
+
+    Worked with C#, Lucene.Net, ASP.NET, jQuery, Javascript, and other WEB technologies, worked with Windows Services and WCF.
 
 - experience:
   role: Developer
   time: 01.2008 - 03.2008
   company: Landors-L, Riga, Latvia
-  details:
+  details: |
+    Was part of a small team developing small websites for various customers. Developed three websites using a custom PHP framework.
+
+    Worked with PHP, Eclipse, HTML, XML, CSS, Apache, and Photoshop.
