@@ -1,39 +1,46 @@
 - name: Languages
   skills:
-    - { name: C#,                       level: 5 }
     - { name: 'JavaScript, TypeScript', level: 5 }
-    - { name: F#,                       level: 4 }
+    - { name: C#,                       level: 5 }
+    - { name: F#,                       level: 3 }
+    - { name: Powershell,               level: 3 }
     - { name: Python,                   level: 3 }
     - { name: PHP,                      level: 3 }
     - { name: Java,                     level: 3 }
     - { name: Bash,                     level: 3 }
-    - { name: Powershell,               level: 4 }
-    - { name: HTML5 & CSS,              level: 5 }
-    - { name: XML,                      level: 5 }
+    - { name: C++,                      level: 3 }
 
 - name: Frameworks
   skills:
-    - { name: .Net Core,       level: 5 }
-    - { name: ASP.NET,         level: 5 }
-    - { name: Angular,         level: 5 }
-    - { name: Ionic Framework, level: 4 }
-    - { name: Flask,           level: 3 }
+    - { name: .Net,            level: 5 }
+    - { name: React,           level: 5 }
+    - { name: Angular,         level: 3 }
+    - { name: Flask,           level: 2 }
 
 - name: Databases
   skills:
     - { name: SQL Server,    level: 4 }
     - { name: PostgreSQL,    level: 3 }
-    - { name: MySQL,         level: 3 }
+    - { name: MySQL,         level: 2 }
     - { name: Oracle,        level: 2 }
-    - { name: MongoDB,       level: 3 }
-    - { name: Elasticsearch, level: 4 }
-    - { name: RavenDB,       level: 4 }
-    - { name: RabbitMQ,      level: 4 }
-    - { name: Azure,         level: 5 }
-    - { name: Docker,        level: 3 }
+    - { name: MongoDB,       level: 2 }
+    - { name: Elasticsearch, level: 3 }
+    - { name: RavenDB,       level: 2 }
 
 - name: Other
   skills:
-    - { name: UML,   level: 3 }
-    - { name: BPMN,  level: 3 }
-    - { name: Scrum, level: 4 }
+    - { name: CSS/SASS/LESS,          level: 5 }
+    - { name: Kubernetes,             level: 4 }
+    - { name: Docker,                 level: 4 }
+    - { name: Azure,                  level: 4 }
+    - { name: DigitalOcean,           level: 4 }
+    - { name: Linux administration,   level: 3 }
+    - { name: Windows administration, level: 3 }
+    - { name: HTML,                   level: 5 }
+    - { name: RabbitMQ,               level: 4 }
+    - { name: UML,                    level: 3 }
+    - { name: BPMN,                   level: 3 }
+    - { name: Scrum,                  level: 3 }
+    - { name: Figma,                  level: 3 }
+    - { name: Adobe graphic tools,    level: 3 }
+    - { name: Inkscape,               level: 4 }
