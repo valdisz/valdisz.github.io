@@ -21,6 +21,7 @@
   skills:
     - { name: SQL Server,    level: 4 }
     - { name: PostgreSQL,    level: 3 }
+    - { name: Redis,         level: 3 }
     - { name: MySQL,         level: 2 }
     - { name: Oracle,        level: 2 }
     - { name: MongoDB,       level: 2 }
