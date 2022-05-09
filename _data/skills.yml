@@ -15,6 +15,7 @@
     - { name: .Net,            level: 5 }
     - { name: React,           level: 5 }
     - { name: Angular,         level: 3 }
+    - { name: Node.js,         level: 2 }
     - { name: Flask,           level: 2 }
 
 - name: Databases
