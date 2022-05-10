@@ -38,7 +38,7 @@
     - { name: Azure,                  level: 4 }
     - { name: DigitalOcean,           level: 4 }
     - { name: RabbitMQ,               level: 4 }
-    - { name: Kanan/Scrum/Agile,      level: 4 }
+    - { name: Kanban/Scrum/Agile,     level: 4 }
     - { name: GraphQL,                level: 3 }
     - { name: Shopify Development,    level: 3 }
     - { name: PKI,                    level: 3 }
