@@ -12,37 +12,42 @@
 
 - name: Frameworks
   skills:
-    - { name: .Net,            level: 5 }
-    - { name: React,           level: 5 }
-    - { name: Angular,         level: 3 }
-    - { name: Node.js,         level: 2 }
-    - { name: Flask,           level: 2 }
+    - { name: .Net,    level: 5 }
+    - { name: React,   level: 5 }
+    - { name: Angular, level: 3 }
+    - { name: Node.js, level: 2 }
+    - { name: Flask,   level: 1 }
 
 - name: Databases
   skills:
     - { name: SQL Server,    level: 4 }
     - { name: PostgreSQL,    level: 3 }
     - { name: Redis,         level: 3 }
+    - { name: Elasticsearch, level: 3 }
     - { name: MySQL,         level: 2 }
     - { name: Oracle,        level: 2 }
     - { name: MongoDB,       level: 2 }
-    - { name: Elasticsearch, level: 3 }
     - { name: RavenDB,       level: 2 }
 
 - name: Other
   skills:
     - { name: CSS/SASS/LESS,          level: 5 }
+    - { name: HTML,                   level: 5 }
     - { name: Kubernetes,             level: 4 }
     - { name: Docker,                 level: 4 }
     - { name: Azure,                  level: 4 }
     - { name: DigitalOcean,           level: 4 }
+    - { name: RabbitMQ,               level: 4 }
+    - { name: Kanan/Scrum/Agile,      level: 4 }
+    - { name: GraphQL,                level: 3 }
+    - { name: Shopify Development,    level: 3 }
+    - { name: PKI,                    level: 3 }
+    - { name: Android Development,    level: 3 }
+    - { name: Inkscape,               level: 3 }
     - { name: Linux administration,   level: 3 }
     - { name: Windows administration, level: 3 }
-    - { name: HTML,                   level: 5 }
-    - { name: RabbitMQ,               level: 4 }
     - { name: UML,                    level: 3 }
     - { name: BPMN,                   level: 3 }
-    - { name: Scrum,                  level: 3 }
     - { name: Figma,                  level: 3 }
     - { name: Adobe graphic tools,    level: 3 }
-    - { name: Inkscape,               level: 4 }
+    - { name: Prosci,                 level: 1 }
