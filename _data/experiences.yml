@@ -1,6 +1,7 @@
 - experience:
-  role: Head of IT Baltic Software Architecture
+  role: Head of IT Baltic Application Architecture
   time: 12.2020 - Present
+  duration:
   company: If P&C Insurance, Riga, Latvia
   details: |
     As a subunit leader, I'm responsible for the relations between my subordinates, their personal development, and mental health. Also, any other team-related issues and challenges are on me.
@@ -10,22 +11,24 @@
     Besides direct team management, I work closely with other development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
 
 - experience:
-  role: Lead Software Architect
+  role: Lead System Architect
   time: 04.2012 - 11.2020
+  duration: 8 years 8 months
   company: If P&C Insurance, Riga, Latvia
   details: |
     I work closely with development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
 
 - experience:
-  role: Software Architect
+  role: System Architect
   time: 10.2011 - 03.2012
+  duration: 6 months
   company: Nexum Insurance Technologies, Riga, Latvia
-  details: |
-    
+  details:
 
 - experience:
   role: Lead Developer
   time: 07.2009 - 09.2011
+  duration: 2 years 3 months
   company: Nexum Insurance Technologies, Riga, Latvia
   details: |
     Developing complex dynamic form solution on ASP.NET where every form aspect and flow can be controlled from configuration. Solution is uses advanced, strongly typed against data in system DB expression system, which can control 90% of system behavior.
@@ -33,7 +36,8 @@
 - experience:
   role: Developer
   time: 04.2008 - 06.2009
-  company: ALSO Latvia, Marupe, Latvia
+  duration: 1 year 3 months
+  company: ALSO Latvia (a.k.a. GNT Latvia), Marupe, Latvia
   details: |
     I developed a fully-featured, full-text search engine for a corporate, custom-built CMDB/issue tracking system. The search engine allowed the 90 staff members to find the required information instantly.
 
@@ -48,6 +52,7 @@
 - experience:
   role: Developer
   time: 01.2008 - 03.2008
+  duration: 3 months
   company: Landors-L, Riga, Latvia
   details: |
     Was part of a small team developing small websites for various customers. Developed three websites using a custom PHP framework.
