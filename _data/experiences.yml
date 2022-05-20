@@ -18,6 +18,19 @@
   details: |
     I work closely with development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
 
+    Main achievements during this period:
+    * Found, evaluated, prepared guidelines, and led the application delivery process automatization. We started from the state where the delivery manager manually copies new files to the server and achieved a state where 100 services can be wholly redeployed in less than 1 hour by a simple button press.
+      Tools and technologies used for the transformation: Octopus Deploy, JetBrains TeamCity.
+    
+    * Breaking the monolith into loosely coupled event-based services allowed multiple teams to deliver requested business features independently, which significantly boosted overall efficiency. My role was to find the solution, evaluate different messaging solutions,  prepare code samples, guide teams during transformation, review their code, and help to find optimal business and technical solutions in the new paradigm.
+      Tools and technologies used: RabbitMQ, Akka.Net, MassTransit.
+    
+    * By introducing and establishing the ELK stack (Elasticsearch, Logstash, and Kibana) based central logging solution, I significantly increased the observability of the application state in the production. This change allowed our operations and development teams to be more productive and reactive.
+      Tools and technologies used: Elasticsearch, Logstash, Kibana.
+    
+    * Introducing and harmonizing development practices like pull request reviews and unit testing increased overall code quality and reduced the number of bugs delivered to production. Additionally, an automated acceptance testing, where I established Selenium and Gherkin-based toolset among the QA community, allowed us to increase overall quality.
+      Tools and technologies used: Git, pull requests, Azure, DevOps, Selenium, Gherkin.
+
 - experience:
   role: System Architect
   time: 10.2011 - 03.2012
