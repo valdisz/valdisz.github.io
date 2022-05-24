@@ -25,9 +25,9 @@
     - { name: Redis,         level: 3 }
     - { name: Elasticsearch, level: 3 }
     - { name: MySQL,         level: 2 }
-    - { name: Oracle,        level: 2 }
-    - { name: MongoDB,       level: 2 }
     - { name: RavenDB,       level: 2 }
+    - { name: Oracle,        level: 1 }
+    - { name: MongoDB,       level: 1 }
 
 - name: Other
   skills:

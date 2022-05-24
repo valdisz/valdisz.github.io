@@ -69,8 +69,11 @@
   duration: 2 years 3 months
   company: Nexum Insurance Technologies, Riga, Latvia
   details: |
-  
-    Developing complex dynamic form solution on ASP.NET where every form aspect and flow can be controlled from configuration. Solution is uses advanced, strongly typed against data in system DB expression system, which can control 90% of system behavior.
+    My task was to lead the development of the new generation primary insurance system for the If P&C Insurance in the Baltic region. I started to work from the beginning of this project, participated in the business requirement clarification, and created several functional prototypes. I was the team leader who implemented the new system.
+
+    The most notable achievement was configuring the majority of the insurance product aspects without conventional coding. For this purpose, I created visual programming solution to define rules and internal product behavior. Engine executed the product rules on the server and the client because we added transpilation to the JavaScript.
+
+    Tools and technologies used: **ASP.NET**, **WCF**, **XAML**, **LINQ**, **LINQ Expressions**, **JavaScript**, **jQuery**, **abstract syntax trees**.
 
 - experience:
   role: Developer
@@ -86,7 +89,7 @@
 
     I adopted an internal issue tracker for other GNT Group members. I updated the search engine to be able to search in different countries from a single issue tracker installation.
 
-    Worked with C#, Lucene.Net, ASP.NET, jQuery, Javascript, and other WEB technologies, worked with Windows Services and WCF.
+    Worked with: **C#**, **Lucene.Net**, **ASP.NET**, **jQuery**, **JavaScript**, **WCF**, and other WEB technologies.
 
 - experience:
   role: Developer
@@ -96,4 +99,4 @@
   details: |
     Was part of a small team developing small websites for various customers. Developed three websites using a custom PHP framework.
 
-    Worked with PHP, Eclipse, HTML, XML, CSS, Apache, and Photoshop.
+    Worked with: **PHP**, **Eclipse**, **HTML**, **XML**, **CSS**, **Apache**, and **Photoshop**.
