@@ -19,11 +19,20 @@ tagline: Manager & Software Architect & Full Stack Developer
 #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 pic: profile.png
 summary: |
-  I'm a software and web developer. I like to design systems of any scale and lead the team and others to make plans into reality. Although in recent years, I have become more like a captain of the ship and let people do the job instead of trying to do all job by myself. The team will consistently outperform the sole individualist.
-
-  My primary expertise is in .Net and JavaScript/TypeScript areas from a technical angle, but recently I became pretty good with React for building complex UIs. I'm open to new languages and technologies and expanding my knowledge stack.
-
-  I have a strong interest in creative programming, particularly in the generative art area. I'm trying to build a small lifestyle business around this idea, and, to complement my venture, I'm learning digital marketing in my spare time.
+  I'm a system architect and full-stack developer, and I like to design systems of any scale and complexity. I have a strong interest in creative programming, particularly generative art.
+  
+  My primary expertise is in .Net and JavaScript/TypeScript areas. In recent years I became pretty good with React for building complex UIs. I'm open to new languages and technologies and expanding my knowledge stack constantly.
+  
+  #### Personal and Freelance Projects
+  
+  Outside of my regular work, I had occasionally worked on several freelance projects, where I got familiar with Shopify, Node.js, and many other tools and technologies.
+  
+  In my free time, I run several small personal projects. Some achievements  that are worth mentioning:
+  * I have created a realistic fractal game map generator with simple weather simulation for the Atlantis PBEM game;
+  * a Web-based game client for the Atlantis PBEM game, which includes complex Human-readable text parsing and representing results in a more digestible form for the game players;
+  * artistic star map poster generator;
+  * web crawling using Python and .Net;
+  * Data analytics and scientific data processing using various Python tools.
 
 #sidebar links
 email: [ 'hr.nyrobm', 'fvqyni' ]
