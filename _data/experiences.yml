@@ -4,11 +4,19 @@
   duration:
   company: If P&C Insurance, Riga, Latvia
   details: |
-    As a subunit leader, I'm responsible for the relations between my subordinates, their personal development, and mental health. Also, any other team-related issues and challenges are on me.
+    At the end of the previous position, we established a special DevOps / Developer-oriented team where I acted as a primary stakeholder, PO, and visionary. The purpose of this team was to streamline the development of microservices and take ownership of the cross-cutting concerns like authentication. I'm entirely in charge of this team in my new position now, and all team members report directly to me.
+    
+    My main goals and objectives are the same as in the previous position, but I'm also directly managing the people I work with.
+    
+    Besides development activities, I have grown the organization's architectural aspect and now manage a whole group of 7 people: 3 architects, three developers, and one product owner.
+    
+    Main achievements during this period:
+    
+    * I have designed base libraries and a set of project templates to streamline microservice development. The standard feature set and project templates allow other teams to bootstrap new service development in several hours. The new service will have all the typical features, like, authentication, logging, health reporting, and CI/CD. At the same time, upgrading to newer versions is just a simple package update for all the teams.
+    * The React-based component library streamlines UI development and maintains a common look & feel across micro-frontends and multiple teams. Multiple teams can develop and deploy their frontends independently with the single-spa micro-frontend solution I have established.
+    * Because we have outgrown ServiceFabric-provided capabilities, together with the infrastructure team, we have established a Kubernetes cluster within Azure. My part in the project was to prepare all micro-services, code libraries, and CI/CD to support the new hosting solution.
 
-    I'm directly managing a team of 5 skilled persons. Our team's primary goals are a technical roadmap, DevOps tasks, and cross-cutting features like authentication.
-
-    Besides direct team management, I work closely with other development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
+    Tools and technologies used: **React**, **single-spa**, **Kubernetes**, **Consul**, **Terraform**, **Docker**, **.Net**, **TypeScript**, **MUI / MaterialUI**, **Nginx**, **Elastic Stack**.
 
 - experience:
   role: Lead System Architect
@@ -32,7 +40,7 @@
     
       Tools and technologies used: **Ionic (Cordova)**, **asymmetric cryptography / PKI / Certificates**, **OCR**, **OAuth2 & OIDC**, **PDF document modification / iTextSharp**, **EiDAS**.
 
-    * Replaced legacy Windows domain-based authentication with standardized OAuth2 & OIDC bases solution; this helped streamline microservice development and allowed folly to use service hosting in the cloud.
+    * Replaced legacy Windows domain-based authentication with standardized OAuth2 & OIDC bases solution; this helped streamline microservice development and allowed to use service hosting in the cloud fully.
     
       Tools and technologies used: **OAuth2 & OIDC**, **IdentiyServer**.
     
