@@ -14,7 +14,7 @@
     
     * I have designed base libraries and a set of project templates to streamline microservice development. The standard feature set and project templates allow other teams to bootstrap new service development in several hours. The new service will have all the typical features, like, authentication, logging, health reporting, and CI/CD. At the same time, upgrading to newer versions is just a simple package update for all the teams.
     * The React-based component library streamlines UI development and maintains a common look & feel across micro-frontends and multiple teams. Multiple teams can develop and deploy their frontends independently with the single-spa micro-frontend solution I have established.
-    * Because we have outgrown ServiceFabric-provided capabilities, together with the infrastructure team, we have established a Kubernetes cluster within Azure. My part in the project was to prepare all micro-services, code libraries, and CI/CD to support the new hosting solution.
+    * Because we have outgrown ServiceFabric-provided capabilities, together with the infrastructure team, we have established a Kubernetes cluster within Azure. My part in the project was to design the general architecture of the K8S cluster and prepare all micro-services, code libraries, and CI/CD to support the new hosting solution.
 
     Tools and technologies used: **React**, **single-spa**, **Kubernetes**, **Consul**, **Terraform**, **Docker**, **.Net**, **TypeScript**, **MUI / MaterialUI**, **Nginx**, **Elastic Stack**.
 
