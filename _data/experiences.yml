@@ -16,27 +16,52 @@
   duration: 8 years 8 months
   company: If P&C Insurance, Riga, Latvia
   details: |
-    I work closely with development teams and business stakeholders to help plan and prioritize work, find solutions for the business problems, shape technical solutions, and translate it all into the backlog.
+    At the beginning of the position in the If P&C Insurance, IT maturity level was relatively low. I took active participation in turning a small, single IT team into a multi-team development factory.
+
+    During this period, I participated in many front-end and back-end development projects. My main objectives and goals are to work closely with development teams and business stakeholders to:
+
+    * find optimal technical solutions for the business problems;
+    * shape technical solutions and translate them into the backlog;
+    * review code and deal with non-trivial issues in production;
+    * plan and prioritize work;
+    * consult developers about different technical aspects of the tools and technologies we are using;
+    * plan long-term vision and strategy of the IT solutions in charge.
 
     Main achievements during this period:
+    * Together with a small team of developers, I developed the initial version of the cross-platform (iOS & Android) mobile application for the Health insurance product. The mobile application featured a fully custom-built digital signature solution (Advanced Digital signature by the European Union classification), which allowed us to identify application users and accept digital inquiries from them in a very secure and organic manner.
+    
+      Tools and technologies used: **Ionic (Cordova)**, **asymmetric cryptography / PKI / Certificates**, **OCR**, **OAuth2 & OIDC**, **PDF document modification / iTextSharp**, **EiDAS**.
+
+    * Replaced legacy Windows domain-based authentication with standardized OAuth2 & OIDC bases solution; this helped streamline microservice development and allowed folly to use service hosting in the cloud.
+    
+      Tools and technologies used: **OAuth2 & OIDC**, **IdentiyServer**.
+    
+    * Adopted Azure cloud for all new microservices development teams were building. Investigated Azure cloud capabilities, created all the needed templates and pipelines so that other development teams could use Azure for their needs, and helped them to adopt a new platform. At the time of the activity, we selected Microsoft ServiceFabric as our central platform for microservices.
+    
+      Tools and technologies used: **Microsoft ServiceFabric**, **Microsoft Azure**, **Kubernetes (AKS)**, **Nginx**.
+    
     * Found, evaluated, prepared guidelines, and led the application delivery process automatization. We started from the state where the delivery manager manually copies new files to the server and achieved a state where 100 services can be wholly redeployed in less than 1 hour by a simple button press.
-      Tools and technologies used for the transformation: Octopus Deploy, JetBrains TeamCity.
+      
+      Tools and technologies used: **Octopus Deploy**, **JetBrains TeamCity**.
     
     * Breaking the monolith into loosely coupled event-based services allowed multiple teams to deliver requested business features independently, which significantly boosted overall efficiency. My role was to find the solution, evaluate different messaging solutions,  prepare code samples, guide teams during transformation, review their code, and help to find optimal business and technical solutions in the new paradigm.
-      Tools and technologies used: RabbitMQ, Akka.Net, MassTransit.
+      
+      Tools and technologies used: **RabbitMQ**, **Akka.Net**, **MassTransit**.
     
     * By introducing and establishing the ELK stack (Elasticsearch, Logstash, and Kibana) based central logging solution, I significantly increased the observability of the application state in the production. This change allowed our operations and development teams to be more productive and reactive.
-      Tools and technologies used: Elasticsearch, Logstash, Kibana.
+      Tools and technologies used: **Elasticsearch**, **Logstash**, **Kibana**.
     
     * Introducing and harmonizing development practices like pull request reviews and unit testing increased overall code quality and reduced the number of bugs delivered to production. Additionally, an automated acceptance testing, where I established Selenium and Gherkin-based toolset among the QA community, allowed us to increase overall quality.
-      Tools and technologies used: Git, pull requests, Azure, DevOps, Selenium, Gherkin.
+      Tools and technologies used: **Git**, **pull requests**, **Azure DevOps**, **Selenium**, **Gherkin**.
+
+    Other tools and technologies that I used very extensively during this period: **React**, **AngulaJS**, **Angular**, **EPiServer**, **JetBrains Development Tools**, **MUI / MaterialUI**, **Bootstrap**, **Webpack**, **Terraform**, **GraphQL**.
 
 - experience:
   role: System Architect
   time: 10.2011 - 03.2012
   duration: 6 months
   company: Nexum Insurance Technologies, Riga, Latvia
-  details:
+  details: Shortly after starting work in this position, If P&C Insurance incorporated most of the Nexum developers.
 
 - experience:
   role: Lead Developer
@@ -44,6 +69,7 @@
   duration: 2 years 3 months
   company: Nexum Insurance Technologies, Riga, Latvia
   details: |
+  
     Developing complex dynamic form solution on ASP.NET where every form aspect and flow can be controlled from configuration. Solution is uses advanced, strongly typed against data in system DB expression system, which can control 90% of system behavior.
 
 - experience:

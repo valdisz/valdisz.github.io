@@ -48,6 +48,9 @@
     - { name: Windows administration, level: 3 }
     - { name: UML,                    level: 3 }
     - { name: BPMN,                   level: 3 }
+    - { name: Terraform,              level: 3 }
+    - { name: Consul,                 level: 3 }
     - { name: Figma,                  level: 3 }
-    - { name: Adobe graphic tools,    level: 3 }
+    - { name: Auth0,                  level: 2 }
+    - { name: Adobe graphic tools,    level: 2 }
     - { name: Prosci,                 level: 1 }
