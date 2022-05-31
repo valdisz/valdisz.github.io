@@ -12,11 +12,12 @@
 
 - name: Frameworks
   skills:
-    - { name: .Net,    level: 5 }
-    - { name: React,   level: 5 }
-    - { name: Angular, level: 3 }
-    - { name: Node.js, level: 2 }
-    - { name: Flask,   level: 1 }
+    - { name: .Net,     level: 5 }
+    - { name: React,    level: 5 }
+    - { name: Angular,  level: 3 }
+    - { name: Node.js,  level: 2 }
+    - { name: Flask,    level: 1 }
+    - { name: Hangfire, level: 2 }
 
 - name: Databases
   skills:
@@ -50,7 +51,9 @@
     - { name: BPMN,                   level: 3 }
     - { name: Terraform,              level: 3 }
     - { name: Consul,                 level: 3 }
-    - { name: Figma,                  level: 3 }
+    - { name: Nginx,                  level: 3 }
+    - { name: Traefik,                level: 2 }
+    - { name: Figma,                  level: 2 }
     - { name: Auth0,                  level: 2 }
     - { name: Adobe graphic tools,    level: 2 }
     - { name: Prosci,                 level: 1 }
