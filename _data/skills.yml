@@ -14,10 +14,13 @@
   skills:
     - { name: .Net,     level: 5 }
     - { name: React,    level: 5 }
+    - { name: MobX,     level: 5 }
+    - { name: Redux,    level: 3 }
     - { name: Angular,  level: 3 }
+    - { name: Gatsby,   level: 2 }
     - { name: Node.js,  level: 2 }
-    - { name: Flask,    level: 1 }
     - { name: Hangfire, level: 2 }
+    - { name: Flask,    level: 1 }
 
 - name: Databases
   skills:
