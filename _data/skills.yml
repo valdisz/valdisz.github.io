@@ -12,15 +12,18 @@
 
 - name: Frameworks
   skills:
-    - { name: .Net,     level: 5 }
-    - { name: React,    level: 5 }
-    - { name: MobX,     level: 5 }
-    - { name: Redux,    level: 3 }
-    - { name: Angular,  level: 3 }
-    - { name: Gatsby,   level: 2 }
-    - { name: Node.js,  level: 2 }
-    - { name: Hangfire, level: 2 }
-    - { name: Flask,    level: 1 }
+    - { name: .Net,         level: 5 }
+    - { name: React,        level: 5 }
+    - { name: MobX,         level: 5 }
+    - { name: React Router, level: 3 }
+    - { name: Apollo,       level: 3 }
+    - { name: Redux,        level: 3 }
+    - { name: Angular,      level: 3 }
+    - { name: Tailwind,     level: 3 }
+    - { name: Gatsby,       level: 2 }
+    - { name: Node.js,      level: 2 }
+    - { name: Hangfire,     level: 2 }
+    - { name: Flask,        level: 1 }
 
 - name: Databases
   skills:
@@ -43,7 +46,7 @@
     - { name: DigitalOcean,           level: 4 }
     - { name: RabbitMQ,               level: 4 }
     - { name: Kanban/Scrum/Agile,     level: 4 }
-    - { name: GraphQL,                level: 3 }
+    - { name: GraphQL,                level: 4 }
     - { name: Shopify Development,    level: 3 }
     - { name: PKI,                    level: 3 }
     - { name: Android Development,    level: 3 }
