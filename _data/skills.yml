@@ -1,3 +1,41 @@
+- name: Software Architecture
+  skills:
+    - { name: Architectural Styles (microservices, event-driven, SOA, serverless),               level: 5 }
+    - { name: API design & Governance (REST, gRPC, GraphQL, versioning, backward compatibility), level: 4 }
+    - { name: Data Architecture & Modeling,                        level: 4 }
+    - { name: Resilience & reliability patterns (circuit breaker, bulkhead, retries, backpressure), level: 4 }
+    - { name: Containers & orchestration, level: 4 }
+    - { name: Infrastructure as Code & GitOps, level: 4 }
+    - { name: Observability by design, level: 4 }
+    - { name: Caching strategies, level: 4 }
+    - { name: Cloud architecture, level: 3 }
+    - { name: Eventing & Streaming Platforms,                        level: 3 }
+    - { name: Diagramming (BPMN, UML, C4),    level: 3 }
+    - { name: Integration architecture & EIPs (messaging, choreography/orchestration, saga), level: 3 }
+    - { name: Eventing & streaming platforms (Kafka, Pulsar; schema registry, exactly-once semantics), level: 3 }
+    - { name: CQRS and Event Sourcing—when/why/how to apply, level: 3 }
+    - { name: Security architecture, level: 3 }
+    - { name: API & platform product thinking (developer portals, SLAs, service catalogs/IDP), level: 3 }
+    - { name: Multi-tenancy & tenant isolation patterns, level: 3 }
+    - { name: Privacy & compliance by design, level: 2 }
+
+- name: Enterprise Architecture
+  skills:
+    - { name: Stakeholder communication, level: 3 }
+    - { name: Vendor/technology evaluation, level: 3 }
+    - { name: ArchiMate,    level: 3 }
+    - { name: C4 model,     level: 3 }
+    - { name: TOGAF,        level: 1 }
+
+- name: Soft Skills
+  skills:
+    - { name: Leadership,        level: 4 }
+    - { name: Communication,     level: 4 }
+    - { name: Critical thinking, level: 4 }
+    - { name: Mentoring,         level: 3 }
+    - { name: Conflict solving,  level: 3 }
+    - { name: Time management,   level: 3 }
+
 - name: Programming languages
   skills:
     - { name: 'JavaScript, TypeScript', level: 5 }
@@ -53,8 +91,6 @@
     - { name: Inkscape,               level: 3 }
     - { name: Linux administration,   level: 3 }
     - { name: Windows administration, level: 3 }
-    - { name: UML,                    level: 3 }
-    - { name: BPMN,                   level: 3 }
     - { name: Terraform,              level: 3 }
     - { name: Consul,                 level: 3 }
     - { name: Nginx,                  level: 3 }
